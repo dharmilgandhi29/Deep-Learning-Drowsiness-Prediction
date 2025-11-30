@@ -1,0 +1,19 @@
+# ===== Data (do NOT push big datasets) =====
+Data/
+data/
+
+# ===== Python cache / junk =====
+__pycache__/
+*.pyc
+
+# ===== Notebook junk =====
+.ipynb_checkpoints/
+
+# ===== Virtual envs (if you make one locally) =====
+.venv/
+venv/
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
